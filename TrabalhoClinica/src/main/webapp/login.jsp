@@ -16,7 +16,8 @@
         <li class="nav-item"><a class="nav-link active" href="index.jsp">Início</a></li>
         <li class="nav-item"><a class="nav-link" href="indexclinica.jsp">Clínica</a></li>
         <li class="nav-item"><a class="nav-link" href="indexcliente.jsp">Cliente</a></li>
-        <li class="nav-item"><a class="nav-link" href="consulta.jsp">Logado</a></li>
+                <li class="nav-item"><a class="nav-link" href="consulta.jsp">Logado</a></li>
+        
     </ul>
 
     <div class="container mt-5" style="max-width: 400px;">
