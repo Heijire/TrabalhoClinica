@@ -26,7 +26,6 @@
 		<li class="nav-item"><a class="nav-link" href="indexclinica.jsp">Cinica</a></li>
 		<li class="nav-item"><a class="nav-link" href="indexcliente.jsp">Cliente</a>
 		<li class="nav-item"><a class="nav-link" href="consulta.jsp">Logado</a></li>
-        <li class="nav-item"><a class="nav-link" href="consulta.jsp">Logado</a></li>
         
 		</li>
 	</ul>
