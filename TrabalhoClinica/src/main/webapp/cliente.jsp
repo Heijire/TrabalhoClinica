@@ -28,6 +28,8 @@
 		<li class="nav-item"><a class="nav-link" href="indexclinica.jsp">Clinica</a></li>
 		<li class="nav-item"><a class="nav-link" href="indexcliente.jsp">Cliente</a>
 		</li>
+		<li class="nav-item"><a class="nav-link" href="consulta.jsp">Logado</a></li>
+        
 	</ul>
 	<br>
 	<div class="conteeiner" align="center">
